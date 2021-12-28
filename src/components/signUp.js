@@ -8,6 +8,10 @@ const Container = styled.div`
     background: #000;
     text-align: center;
 
+    h3{
+        font-family: var(--main-bold);
+    }
+
     .formButton{
         width: 35%;
         height: 50px;
