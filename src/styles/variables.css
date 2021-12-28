@@ -1,0 +1,12 @@
+@import './typography.css';
+
+:root{
+    --main-bold: main-bold;
+    --main-regular: main-regular;
+    --main-thin: main-thin;
+    --main-extra-bold: main-extra-bold;
+    --aqua: #53C2C9;
+    --blue: #5BA0D9;
+    --white: #fff;
+    --center-gradient: #50C2E4;
+}
